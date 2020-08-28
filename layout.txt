@@ -3,3 +3,15 @@ htm 뼈대를 만들고
 css로 디자인을 한다.
 javascript & jQuery로 
 제어(이벤트,애니메이션...)를한다 .
+
+react 공부하기
+vue공부하기
+node.js공부하기
+cordova 공부하기
+phonegap 공부하기
+
+php공부하기
+mysql공부하기
+git공부하기
+java공부하기
+jsp공부하기
